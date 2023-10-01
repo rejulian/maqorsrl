@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+}
+
+.css-93hrkz-MuiPaper-root-MuiAppBar-root, .css-mdyg66-MuiModal-root-MuiDrawer-root .MuiDrawer-paper, .css-q3bifl{
+    background-color: rgba(213, 213, 213, 0.318) !important;
+    box-shadow: none !important;
+}
+
+.css-q3bifl{
+    background-color: rgba(213, 213, 213, 0.318) !important;
+}
+
+.css-5o9at3 .MuiDrawer-paper{
+    background-color: rgba(213, 213, 213, 0.318) !important;
+}
+
+.logo{
+    width: 50px;
+}
