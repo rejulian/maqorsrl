@@ -14,7 +14,7 @@ const Home = () => {
               fontSize: "50px",
               color: "white",
               cursor: "pointer",
-              marginTop: "200px",
+              marginTop: "50px",
             }}
           />
         </a>

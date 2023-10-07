@@ -67,12 +67,11 @@ function Header(props) {
             <img className="logo" src={Logo} alt="Importados Beauty" />
           </Link> */}
           <IconButton
-            color="secondary.primary"
             aria-label="open drawer"
             edge="start"
             onClick={handleDrawerToggle}
           >
-            <MenuIcon color="secondary.primary" />
+            <MenuIcon />
 
           </IconButton>
         </Toolbar>
